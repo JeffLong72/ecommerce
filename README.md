@@ -1,1 +1,3 @@
 # ecommerce
+
+Educational purposes only.
